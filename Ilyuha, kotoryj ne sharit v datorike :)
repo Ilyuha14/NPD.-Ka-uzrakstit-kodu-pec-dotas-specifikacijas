@@ -1,0 +1,11 @@
+def aprekinat_precu_cenu(precu_cena):
+    summas_sakotneja_vertiba = 0
+    Ievade1: Ievadi cenu: 0.40
+    Ievade2: Ievadi daudzumu: 6
+    Izvade: Preču kpējā summa: 2.40 €
+    Ievade1: Ievadi cenu: 1.50
+    Ievade2: Ievadi daudzumu: 2
+    Izvade: Preču kopējā summa: 3.00 €
+    Ievade1: Ievadi cenu:
+    (0 - programma beidzas)
+    Izvade: Kopsumma: 5.40 €
